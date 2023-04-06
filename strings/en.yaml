@@ -1,0 +1,3 @@
+calc:
+  err: "<b>Error: </b>"  
+  not_reply: "<b>Enter /calc and an expression, or reply /calc to an expression</b>"
